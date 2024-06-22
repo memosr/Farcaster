@@ -12,7 +12,7 @@
 ## 🟢 Ön Bilgilendirme
 - Bu işlem ile Farcaster üzerinde bir Node çalıştırabilirsiniz. 
 - Bunu yapabilmek için Warpcast hesabınızın olması gerekiyor yoksa buradan üye olun 5$ maliyeti var
-- https://warpcast.com/~/invite-page/290828?id=b3af94ef
+- https://warpcast.com/~/invite-page/450145?id=26f71802
 
 
 ## 🟢 özellik
