@@ -98,7 +98,7 @@ curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 #### 3-Warpcast FID numaranızı girin Profiliniz sağ üstten 3 çizgi ve About butonuna basın çıkıyor.
 
 ![image](https://raw.githubusercontent.com/memosr/Gorseller/main/20240622_223820.jpg?token=GHSAT0AAAAAACS2KRHMUNRRJ7BEDAIM2LW2ZTXFFRQ)
-![image](https://hizliresim.com/l2csxmt)
+![image](https://raw.githubusercontent.com/memosr/Gorseller/main/20240622_223829.jpg?token=GHSAT0AAAAAACS2KRHND6OM3EGQ5OOJHPT2ZTXFGXA)
 
 
 ## 🟢 Sonuç izleme
