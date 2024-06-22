@@ -3,10 +3,8 @@
 
 
 ### Linkler
- * [Hercules Telegram](https://t.me/HerculesNode)
- * [Hercules Twitter](https://twitter.com/Herculesnode)
- * [Hercules Web](https://herculesnode.com)
- * [Hercules Warpcast](https://warpcast.com/herculesnode)
+ * [Memosr Twitter](https://twitter.com/Herculesnode)
+ * [Memosr Warpcast](https://warpcast.com/herculesnode)
 
  * Resmi döküman : https://www.thehubble.xyz/intro/hubble.html
 
