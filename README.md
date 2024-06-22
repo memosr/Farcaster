@@ -97,7 +97,7 @@ curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 #### 2-Op Mainnet RPC linkini girin
 #### 3-Warpcast FID numaranızı girin Profiliniz sağ üstten 3 çizgi ve About butonuna basın çıkıyor.
 
-![image](https://hizliresim.com/f06cr3z)
+![image](https://raw.githubusercontent.com/memosr/Gorseller/main/20240622_223820.jpg?token=GHSAT0AAAAAACS2KRHMUNRRJ7BEDAIM2LW2ZTXFFRQ)
 ![image](https://hizliresim.com/l2csxmt)
 
 
