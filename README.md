@@ -3,8 +3,8 @@
 
 
 ### Linkler
- * [Memosr Twitter](https://twitter.com/Herculesnode)
- * [Memosr Warpcast](https://warpcast.com/herculesnode)
+ * [Memosr Twitter](https://twitter.com/memosrETH)
+ * [Memosr Warpcast](https://warpcast.com/memosr)
 
  * Resmi döküman : https://www.thehubble.xyz/intro/hubble.html
 
